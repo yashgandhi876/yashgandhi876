@@ -1,2 +1,2 @@
-<img src="./yash.png">
+<img src="./Snowy Mountains Photo Facebook Cover.png">
 # Yash_Gandhi
