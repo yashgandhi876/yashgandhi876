@@ -1,4 +1,4 @@
 <img src="https://github.com/yashgandhi876/yashgandhi876/blob/master/yash.png">
 
-[yashgandhi.tech](https://yashgandhi.tech)
+[https://yashgandhi876.github.io](https://yashgandhi876.github.io)
  
