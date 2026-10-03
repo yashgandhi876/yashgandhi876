@@ -21,12 +21,14 @@
 
 #### Featured project
 
-**[Pattern Desk](https://github.com/yashgandhi876/pattern-desk)**: a local-first stock analysis platform for swing trading on NSE and US markets.
+**[Pattern Desk](https://yashgandhi876.github.io/pattern-desk/)** (live demo): a market analysis platform for swing trading on NSE stocks, US stocks and crypto, with an IPO tracker. Source available on request.
 
 - Per-stock event studies for 21 price patterns, with significance testing and checks that results hold in both halves of history
 - Walk-forward, out-of-sample validation and a leave-one-year-out confidence model that reports accuracy honestly
 - A learning loop that checks its own predictions, explains misses, and adjusts future signals
-- Append-only price store for about 550 stocks, portfolio VaR and stress tests, interactive charts and real-time news alerts
+- Append-only price store for about 600 stocks and coins, portfolio VaR and stress tests, risk/reward tiers, interactive charts and real-time news alerts
+- IPO calls from a model trained on 1,000+ past listings (GMP, subscription, market trend), tested on unseen years
+- Runs free on GitHub Actions with a private engine that publishes a static site to GitHub Pages
 
 <sub>Python · pandas · SciPy · Flask · JavaScript · Lightweight Charts · pytest</sub>
 
